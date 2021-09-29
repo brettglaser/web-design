@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+  margin:0;
+  padding:0;
+}
+
+Header {
+  padding: 3%;
+  font-family: cursive;
+  font-size: 200%;
+}
+
+nav{
+padding: 3%;
+font-size: 200%;
+font-family: 
+
+}
+
+.box1 {
+  width: 400px;
+  height: 400px;
+  background: rgba(125,125,125,.5)lightblue url("sunset.jpg");
+  position: relative;
+
+
+
+}
+
+.box2,.box3{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.box2 {
+  /*visibility: hidden;*/
+  position: absolute;
+  top: 0px;
+  left: : 0px;
+  background-color: rgba(0,255,0,.5);
+}
+
+footer{
+background-color: magenta;
+color: white
+font-size: 200%
+padding: 3%
+font-family: 'Roboto Slab', sans-serif;
+}

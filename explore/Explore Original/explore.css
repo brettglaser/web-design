@@ -1,0 +1,38 @@
+article{
+  overflow: auto;
+}
+
+.pic{
+  background-color: black
+  text-align: center;
+  border: 1px solid white;
+  padding: 10px 10px 10px 10px;
+  font-size: 90%
+  font-family: Arial, sans-serif;
+  color: white;
+  float: left;
+  margin: 20px;
+}
+
+figcaption{
+  margin-top: 5px;
+}
+
+nav{
+  padding: 10px
+  text-align: center;
+}
+
+.welcome h1 {
+  font-size: 72px;
+  color: white;
+  font-family: Georgia, serif;
+  margin: 0;
+}
+
+.welcome h2 {
+  font-size: 25px;
+  color: #8cf0ef;
+  font-family: Georgia, serif;
+  margin: 0;
+}
